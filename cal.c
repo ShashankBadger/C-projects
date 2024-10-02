@@ -3,6 +3,7 @@
 
 
 int main(){
+	// this is my c project
 	int num1,num2, op, result = 0;
 	char oper;
 	do {
